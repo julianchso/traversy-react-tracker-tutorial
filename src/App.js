@@ -5,7 +5,7 @@ function App() {
     // must return only one component.
     <div className="container">
       {/* <Header title="Hello"/> */}
-      <Header title={1}/>
+      <Header />
     </div>
   );
 }
